@@ -1,0 +1,4 @@
+requests
+pymysql
+DBUtils
+colorama

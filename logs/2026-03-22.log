@@ -1,0 +1,154 @@
+2026-03-22 19:42:08,315 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:42:08,727 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:42:08,728 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:42:08,729 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:42:08,730 - instagram_crawler - INFO - 已启动
+2026-03-22 19:42:11,209 - instagram_crawler - INFO - 验证完成，有效cookie数量: 0
+2026-03-22 19:42:11,209 - instagram_crawler - CRITICAL - 没有可用的cookie，无法执行爬虫任务
+2026-03-22 19:42:11,209 - instagram_crawler - INFO - 全部完成
+2026-03-22 19:43:03,056 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:43:03,271 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:43:03,271 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:43:03,271 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:43:03,272 - instagram_crawler - INFO - 已启动
+2026-03-22 19:43:06,198 - instagram_crawler - INFO - 验证完成，有效cookie数量: 0
+2026-03-22 19:43:06,198 - instagram_crawler - CRITICAL - 没有可用的cookie，无法执行爬虫任务
+2026-03-22 19:43:06,199 - instagram_crawler - INFO - 全部完成
+2026-03-22 19:44:09,488 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:44:09,666 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:44:09,667 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:44:09,667 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:44:09,668 - instagram_crawler - INFO - 已启动
+2026-03-22 19:44:19,897 - instagram_crawler - INFO - 验证完成，有效cookie数量: 1
+2026-03-22 19:44:19,897 - instagram_crawler - INFO - Cookie数量: 1, 配置的最大线程数: 10, 计算的最大线程数: 1, 实际使用线程数: 1
+2026-03-22 19:44:19,898 - instagram_crawler - INFO - 开始获取1552954的粉丝数据...
+2026-03-22 19:44:22,230 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:44:23,695 - instagram_crawler - INFO - 1552954:max_id不同-->12
+2026-03-22 19:44:24,927 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:44:25,486 - instagram_crawler - INFO - 1552954:max_id不同-->24
+2026-03-22 19:44:26,608 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:44:27,779 - instagram_crawler - INFO - 1552954:max_id不同-->36
+2026-03-22 19:50:44,427 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:50:44,634 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:50:44,634 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:50:44,634 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:50:44,635 - instagram_crawler - INFO - 已启动
+2026-03-22 19:50:49,489 - instagram_crawler - INFO - 验证完成，有效cookie数量: 1
+2026-03-22 19:50:49,489 - instagram_crawler - INFO - Cookie数量: 1, 配置的最大线程数: 10, 计算的最大线程数: 1, 实际使用线程数: 1
+2026-03-22 19:50:49,490 - instagram_crawler - INFO - 开始获取1552954的粉丝数据...
+2026-03-22 19:50:51,981 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:50:52,566 - instagram_crawler - INFO - 1552954:max_id不同-->12
+2026-03-22 19:51:52,001 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:51:52,194 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:51:52,194 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:51:52,194 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:51:52,195 - instagram_crawler - INFO - 已启动
+2026-03-22 19:51:58,836 - instagram_crawler - INFO - 验证完成，有效cookie数量: 1
+2026-03-22 19:51:58,837 - instagram_crawler - INFO - Cookie数量: 1, 配置的最大线程数: 10, 计算的最大线程数: 1, 实际使用线程数: 1
+2026-03-22 19:51:58,837 - instagram_crawler - INFO - 开始获取1552954的粉丝数据...
+2026-03-22 19:52:01,129 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:54:27,218 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:54:27,602 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:54:27,602 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:54:27,603 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:54:27,604 - instagram_crawler - INFO - 已启动
+2026-03-22 19:54:37,866 - instagram_crawler - INFO - 移除无效的cookie: sessionid=38935134037%3AQPQ2JLCAUEGXQG%3A1%3AAYguCJm-XlhfA73pBD3t0-ySZJnNZF7HwMwELOjRLg
+2026-03-22 19:54:37,866 - instagram_crawler - INFO - 移除无效的cookie: sessionid=75066311091%3AQVBUN0GsfXtq6J%3A20%3AAYj6C5C8hQSpBvLmM43qyfmXGwaDHVxYMEgvttkJKw
+2026-03-22 19:54:37,866 - instagram_crawler - INFO - 已从文件中移除2个无效cookie
+2026-03-22 19:54:37,866 - instagram_crawler - INFO - 验证完成，有效cookie数量: 1
+2026-03-22 19:54:38,287 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:38,726 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:39,131 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:39,562 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:40,015 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:40,443 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:40,885 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:41,282 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:41,740 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:42,145 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:42,580 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:42,977 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:43,370 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:43,818 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:44,241 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:44,637 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:45,048 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:54:45,511 - instagram_crawler - ERROR - 验证代理时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2026-03-22 19:56:55,475 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:56:55,901 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:56:55,901 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:56:55,902 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:56:55,903 - instagram_crawler - INFO - 已启动
+2026-03-22 19:56:59,724 - instagram_crawler - INFO - 验证完成，有效cookie数量: 1
+2026-03-22 19:57:37,906 - instagram_crawler - ERROR - 验证代理时出错: HTTPConnectionPool(host='23.129.252.60', port=6328): Max retries exceeded with url: http://httpbin.org/ip (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<HTTPConnection(host='23.129.252.60', port=6328) at 0x21475801290>, 'Connection to 23.129.252.60 timed out. (connect timeout=10)')))
+2026-03-22 19:58:25,535 - instagram_crawler - INFO - Configuration validation passed.
+2026-03-22 19:58:25,909 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\user_ids.txt
+2026-03-22 19:58:25,909 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\cookies.txt
+2026-03-22 19:58:25,911 - instagram_crawler - INFO - 已获取E:\Ins_Crawler\data\proxies.txt
+2026-03-22 19:58:25,911 - instagram_crawler - INFO - 已启动
+2026-03-22 19:58:30,990 - instagram_crawler - INFO - 验证完成，有效cookie数量: 1
+2026-03-22 19:58:52,349 - instagram_crawler - INFO - 移除无效的代理: 23.129.253.7:6625:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,350 - instagram_crawler - INFO - 移除无效的代理: 185.72.241.193:7485:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,350 - instagram_crawler - INFO - 移除无效的代理: 85.198.45.111:6035:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,350 - instagram_crawler - INFO - 移除无效的代理: 104.253.13.9:5441:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,350 - instagram_crawler - INFO - 移除无效的代理: 104.252.20.185:6117:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,350 - instagram_crawler - INFO - 移除无效的代理: 185.72.241.241:7533:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,350 - instagram_crawler - INFO - 移除无效的代理: 92.112.200.147:6730:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 91.123.10.19:6561:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 104.253.13.65:5497:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 23.129.252.60:6328:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 45.38.101.243:6176:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 185.72.241.101:7393:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 92.112.171.152:6120:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 92.112.171.171:6139:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 108.165.205.121:5358:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,351 - instagram_crawler - INFO - 移除无效的代理: 50.114.84.129:7368:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,352 - instagram_crawler - INFO - 移除无效的代理: 45.39.35.214:5647:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,352 - instagram_crawler - INFO - 移除无效的代理: 45.38.101.87:6020:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,352 - instagram_crawler - INFO - 移除无效的代理: 91.123.10.140:6682:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,352 - instagram_crawler - INFO - 移除无效的代理: 50.114.242.157:6394:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 45.39.25.131:5566:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 108.165.63.74:5811:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 92.112.175.46:6319:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 92.112.171.194:6162:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 85.198.45.145:6069:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 104.252.109.67:7000:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 108.165.218.237:5976:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,353 - instagram_crawler - INFO - 移除无效的代理: 185.72.241.21:7313:lmtdbgvq:y4mgvlry8jy0
+2026-03-22 19:58:52,354 - instagram_crawler - INFO - 已从文件中移除28个无效代理
+2026-03-22 19:58:52,354 - instagram_crawler - INFO - 验证完成，有效代理数量: 0
+2026-03-22 19:58:52,355 - instagram_crawler - INFO - Cookie数量: 1, 配置的最大线程数: 10, 计算的最大线程数: 1, 实际使用线程数: 1
+2026-03-22 19:58:52,355 - instagram_crawler - INFO - 开始获取1552954的粉丝数据...
+2026-03-22 19:58:54,869 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:58:55,922 - instagram_crawler - INFO - 1552954:max_id不同-->12
+2026-03-22 19:58:56,852 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:58:57,659 - instagram_crawler - INFO - 1552954:max_id不同-->24
+2026-03-22 19:58:58,810 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:00,057 - instagram_crawler - INFO - 1552954:max_id不同-->36
+2026-03-22 19:59:01,094 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:02,248 - instagram_crawler - INFO - 1552954:max_id不同-->48
+2026-03-22 19:59:05,112 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:05,875 - instagram_crawler - INFO - 1552954:max_id不同-->60
+2026-03-22 19:59:06,892 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:08,012 - instagram_crawler - INFO - 1552954:max_id不同-->72
+2026-03-22 19:59:09,003 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:10,071 - instagram_crawler - INFO - 1552954:max_id不同-->84
+2026-03-22 19:59:11,018 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:11,838 - instagram_crawler - INFO - 1552954:max_id不同-->96
+2026-03-22 19:59:13,095 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:14,193 - instagram_crawler - INFO - 1552954:max_id不同-->108
+2026-03-22 19:59:15,286 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:16,448 - instagram_crawler - INFO - 1552954:max_id不同-->120
+2026-03-22 19:59:18,163 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:19,158 - instagram_crawler - INFO - 1552954:max_id不同-->132
+2026-03-22 19:59:20,409 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:21,116 - instagram_crawler - INFO - 1552954:max_id不同-->144
+2026-03-22 19:59:22,258 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:23,727 - instagram_crawler - INFO - 1552954:max_id不同-->156
+2026-03-22 19:59:24,846 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:25,416 - instagram_crawler - INFO - 1552954:max_id不同-->168
+2026-03-22 19:59:26,425 - instagram_crawler - INFO - 获取到12个粉丝
+2026-03-22 19:59:27,160 - instagram_crawler - INFO - 1552954:max_id不同-->180
+2026-03-22 19:59:27,559 - instagram_crawler - ERROR - 1552954api返回数据为空
+2026-03-22 19:59:27,559 - instagram_crawler - ERROR - cookie失效，删除cookie:sessionid=48534829811%3AhmEMmQto0PSE4d%3A10%3AAYisHzs9IB-HkNtxKn6jWSfMiDkX3ceK2QsKTMY2_g
+2026-03-22 19:59:27,560 - instagram_crawler - CRITICAL - cookie池已全部失效，结束程序！
