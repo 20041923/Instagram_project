@@ -15,7 +15,7 @@
 ## 项目结构
 
 ```
-Ins_Crawler/
+Instagram_project/
 ├── core/             # 核心爬虫逻辑
 │   ├── crawler.py    # 爬虫主逻辑
 │   ├── db_worker.py  # 数据库工作线程
@@ -56,8 +56,8 @@ Ins_Crawler/
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/Ins_Crawler.git
-   cd Ins_Crawler
+   git clone https://github.com/yourusername/Instagram_project.git
+   cd Instagram_project
    ```
 
 2. **安装依赖**
