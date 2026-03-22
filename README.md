@@ -1,4 +1,4 @@
-# Instagram 粉丝爬虫
+# Instagram全栈采集部分---粉丝爬虫
 
 一个用于爬取 Instagram 用户粉丝数据的爬虫工具，支持多线程、自动 Cookie 管理和代理验证。
 
@@ -56,7 +56,7 @@ Instagram_project/
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/Instagram_project.git
+   git clone https://github.com/20041923/Instagram_project.git
    cd Instagram_project
    ```
 
